@@ -1,0 +1,6 @@
+{
+  "name": "Teacher Substitute Matcher",
+  "description": "Daily substitute-teacher scheduling and relief timetable matching for schools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
