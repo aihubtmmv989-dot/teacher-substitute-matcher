@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/teacher-substitute-matcher/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
